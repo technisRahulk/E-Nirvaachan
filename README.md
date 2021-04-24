@@ -9,7 +9,7 @@
 
 2. Clone the repo. This also takes care of installing the necessary dependencies.
     ```javascript
-    git clone https://github.com/technisRahulk/e-Nirvaachan.git
+    git clone https://github.com/technisRahulk/E-Nirvaachan.git
     ```
 
 3. Run the development console.
